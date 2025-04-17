@@ -4,7 +4,8 @@
 
 <h1 align="center">Hi 👋, I'm PETER</h1>
 <h3 align="center">A passionate frontend developer from Zimbabwe</h3>
-<h3 align="center"> Profile Overview
+                             Profile Overview
+                             
 Peter Phiri is a dedicated Data Analyst and Business Consultant with a strong academic background in Business Management and Information Technology. His interdisciplinary education equips him with the skills to bridge the gap between technical data analysis and strategic business decision-making.
 
                            Professional Experience
