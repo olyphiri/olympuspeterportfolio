@@ -1,8 +1,10 @@
-# Mr Peter Olympus Phiri
-# peterolympusphiri@icloud.com
-# +263 784 140 899
+# 
+# 
+# 
+
 
 <h1 align="center">Hi 👋, I'm PETER</h1>
+
 <h3 align="center">A passionate frontend developer from Zimbabwe</h3>
                              Profile Overview
                              
