@@ -1,9 +1,18 @@
 # Mr Peter Olympus Phiri
 # peterolympusphiri@icloud.com
 # +263 784 140 899
-https://drive.google.com/file/d/1LfgLbeqMZvcF7yY7vjxWDm2eeRvzKgiR/view?usp=drive_link
+
 <h1 align="center">Hi 👋, I'm PETER</h1>
 <h3 align="center">A passionate frontend developer from Zimbabwe</h3>
+<h3 align="center"> Profile Overview
+Peter Phiri is a dedicated Data Analyst and Business Consultant with a strong academic background in Business Management and Information Technology. His interdisciplinary education equips him with the skills to bridge the gap between technical data analysis and strategic business decision-making.
+
+                           Professional Experience
+
+Peter has gained valuable experience in various sectors, applying his knowledge of data analytics to enhance business operations and drive informed decision-making. His expertise includes:
+Data Analysis: Utilizing statistical tools and software to interpret complex datasets, providing actionable insights to stakeholders.
+Business Strategy: Collaborating with teams to develop and implement strategies that improve efficiency and profitability.
+Information Technology: Leveraging IT solutions to optimize business processes and enhance data management.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=olyphiri&label=Profile%20views&color=0e75b6&style=flat" alt="olyphiri" /> </p>
 
