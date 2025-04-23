@@ -1,3 +1,11 @@
+<div align="center">
+  <img src="https://rrmhxzaxghiovfqqggfv.supabase.co/storage/v1/object/public/avatars/e39fccff-ed81-45c5-b549-8322afdde7df/1743502992812.jpg" width="150" height="150" style="border-radius: 50%;">
+</div>
+
+<h1 align="center">Boy From Nyanga Zimbabwe</h1>
+<p align="center">Date of Birth: 26 March 1999</p>
+
+
 # Peter Phiri
 
 **Information Technology Professional | Data Enthusiast | Problem Solver**
@@ -37,6 +45,7 @@ Inspired by the work of leading figures in computational social science, such as
 *   **Project Management:** Proven ability to manage projects, meet deadlines, and work collaboratively in team settings.
 *   **Software Development:** Experience in software development lifecycle, from requirement gathering to deployment and maintenance.
 *   **Machine Learning:** Basic knowledge of machine learning concepts and their applications in data analysis and problem-solving.
+*   **Africans Who Design:** [Africans Who Design](https://www.africanswhodesign.io/u/peterolympusphiri)
 
 ## Professional Experience
 
