@@ -76,7 +76,10 @@ I am particularly interested in exploring how technology can be used to:
 *   Technical Proficiency -Familiarity with various IT tools and software enhances efficiency and productivity across business operations.
 I am eager to connect with professionals in the field, learn from their experiences, and contribute to innovative projects.
 
-## TAURA NENI @PETER OLYMPUS PHIRI
+
+
+
+##                                    CONTACT ME @PETER OLYMPUS PHIRI
 
 
 
