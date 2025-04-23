@@ -1,41 +1,59 @@
-# 
-# 
-# 
+# Peter Phiri
 
+**Information Technology Professional | Data Enthusiast | Problem Solver**
 
-<h1 align="center">Hi 👋, I'm PETER</h1>
+## About Me
 
-<h3 align="center">A passionate frontend developer from Zimbabwe</h3>
-                             Profile Overview
-                             
-Peter Phiri is a dedicated Data Analyst and Business Consultant with a strong academic background in Business Management and Information Technology. His interdisciplinary education equips him with the skills to bridge the gap between technical data analysis and strategic business decision-making.
+I am a dedicated and results-driven professional with a Bachelor's degree in Information Technology. My background is grounded in a deep understanding of IT systems, data analysis, and innovative problem-solving. I am passionate about leveraging technology to drive efficiency, improve processes, and deliver meaningful outcomes. I am particularly interested in areas such as data analytics, systems development, and network management.
 
-                           Professional Experience
+Inspired by the work of leading figures in computational social science, such as Dr. Henry Kudzanai Dambanemuya, I am keen to explore the intersection of technology and social systems. My interests include understanding how large-scale data analysis and technological innovation can be applied to address complex societal challenges. While my academic background differs from Dr. Dambanemuya's interdisciplinary approach, I share a similar drive to use data-driven insights for improving systems and enhancing human interaction.
 
-Peter has gained valuable experience in various sectors, applying his knowledge of data analytics to enhance business operations and drive informed decision-making. His expertise includes:
-Data Analysis: Utilizing statistical tools and software to interpret complex datasets, providing actionable insights to stakeholders.
-Business Strategy: Collaborating with teams to develop and implement strategies that improve efficiency and profitability.
-Information Technology: Leveraging IT solutions to optimize business processes and enhance data management.
+## Education
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=olyphiri&label=Profile%20views&color=0e75b6&style=flat" alt="olyphiri" /> </p>
+*   **Bachelor of Information Technology**
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=olyphiri" alt="olyphiri" /></a> </p>
+## Skills & Expertise
 
-<p align="left"> <a href="https://twitter.com/peterphiri" target="blank"><img src="https://img.shields.io/twitter/follow/peterphiri?logo=twitter&style=for-the-badge" alt="peterphiri" /></a> </p>
+*   **Data Analysis:** Proficient in data collection, cleaning, processing, and visualization using tools like Python (Pandas, NumPy), SQL, and various BI platforms.
+*   **Systems Management:** Experienced in the configuration, maintenance, and troubleshooting of IT systems, ensuring optimal performance and reliability.
+*   **Networking:** Familiar with network architecture, security protocols, and optimization.
+*   **Programming:** Skilled in languages such as Python, Java, and JavaScript for scripting, application development, and automation.
+*   **Databases:** Hands-on experience with relational databases (MySQL, PostgreSQL) and NoSQL databases (MongoDB).
+*   **Cloud Technologies:** Familiarity with cloud platforms such as AWS and Azure.
+*   **Project Management:** Proven ability to manage projects, meet deadlines, and work collaboratively in team settings.
+*   **Software Development:** Experience in software development lifecycle, from requirement gathering to deployment and maintenance.
+*   **Machine Learning:** Basic knowledge of machine learning concepts and their applications in data analysis and problem-solving.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/peterphiri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="peterphiri" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/peter phiri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="peter phiri" height="30" width="40" /></a>
-<a href="https://codesandbox.com/olyphiri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="olyphiri" height="30" width="40" /></a>
-<a href="https://fb.com/olympusphiri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="olympusphiri" height="30" width="40" /></a>
-</p>
+## Professional Experience
 
-<h3 align="left">Languages and Tools:</h3>
+While I am early in my career, I have gained valuable experience through academic projects, internships, and personal endeavors. These experiences have allowed me to develop my technical skills, improve my analytical abilities, and gain practical knowledge in the IT field.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=olyphiri&show_icons=true&locale=en&layout=compact" alt="olyphiri" /></p>
+*   **Academic Projects:** Completed several projects involving data analysis, systems development, and network setup. These projects honed my problem-solving skills and enhanced my technical expertise.
+* **Personal Projects**: Worked on several projects.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=olyphiri&show_icons=true&locale=en" alt="olyphiri" /></p>
+## Contact
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=olyphiri&theme=material-palenight&hide_border=true&border_radius=4.7&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+*   **Email:** peterolympusphiri@icloud.com
+*   **LinkedIn:** www.linkedin.com/in/peter-olympus-phiri-72536317b
+*   **Git:** [Your Git Profile]
+*   **Google:** [Your Google Profile]
+*   **CV:** https://indigo-adelice-7.tiiny.site
+
+## Interests
+
+I am particularly interested in exploring how technology can be used to:
+
+*   Improve data security and privacy.
+*   Enhance the efficiency of organizational processes.
+*   Develop new tools and methods for data-driven decision making.
+*   Implement machine learning techniques for predictive modeling and problem-solving.
+
+I am eager to connect with professionals in the field, learn from their experiences, and contribute to innovative projects.
+
+## Sample Projects
+
+<CODE_BLOCK>
+* Project 1 Description
+* Project 2 Description
+* Project 3 Description
 
