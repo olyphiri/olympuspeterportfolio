@@ -1,16 +1,30 @@
 # Peter Phiri
 
 **Information Technology Professional | Data Enthusiast | Problem Solver**
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=olyphiri&label=Profile%20views&color=0e75b6&style=flat" alt="olyphiri" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=olyphiri" alt="olyphiri" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/peterphiri" target="blank"><img src="https://img.shields.io/twitter/follow/peterphiri?logo=twitter&style=for-the-badge" alt="peterphiri" /></a> </p>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/peterphiri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="peterphiri" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/peter phiri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="peter phiri" height="30" width="40" /></a>
+<a href="https://codesandbox.com/olyphiri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="olyphiri" height="30" width="40" /></a>
+<a href="https://fb.com/olympusphiri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="olympusphiri" height="30" width="40" /></a>
+</p>
+
 
 ## About Me
 
-I am a dedicated and results-driven professional with a Bachelor's degree in Information Technology. My background is grounded in a deep understanding of IT systems, data analysis, and innovative problem-solving. I am passionate about leveraging technology to drive efficiency, improve processes, and deliver meaningful outcomes. I am particularly interested in areas such as data analytics, systems development, and network management.
+I am a dedicated and results-driven professional with a Bachelor's degree in Information Technology and Business Management. My background is grounded in a deep understanding of IT systems, data analysis, and innovative problem-solving and business management. I am passionate about leveraging technology to drive efficiency, improve processes, and deliver meaningful outcomes. I am particularly interested in areas such as data analytics, systems development, and network management.
 
 Inspired by the work of leading figures in computational social science, such as Dr. Henry Kudzanai Dambanemuya, I am keen to explore the intersection of technology and social systems. My interests include understanding how large-scale data analysis and technological innovation can be applied to address complex societal challenges. While my academic background differs from Dr. Dambanemuya's interdisciplinary approach, I share a similar drive to use data-driven insights for improving systems and enhancing human interaction.
 
 ## Education
 
-*   **Bachelor of Information Technology**
+*   **Bachelor of Business Management and Information Technology**
 
 ## Skills & Expertise
 
@@ -37,7 +51,8 @@ While I am early in my career, I have gained valuable experience through academi
 *   **LinkedIn:** www.linkedin.com/in/peter-olympus-phiri-72536317b
 *   **Git:** [Your Git Profile]
 *   **Google:** [Your Google Profile]
-*   **CV:** https://indigo-adelice-7.tiiny.site
+*   **CV:**          https://www.dropbox.com/scl/fi/ivj0otd5rt1jacwmo9t1k/PETER-PHIRI-RESUME-2025.pdf?rlkey=fisny5hfd7g0ohv96tr764knc&st=bbo98u4i&dl=0
+*   **WhatsApp:** [WhatsApp](https://wa.me/263784140899)
 
 ## Interests
 
@@ -47,7 +62,9 @@ I am particularly interested in exploring how technology can be used to:
 *   Enhance the efficiency of organizational processes.
 *   Develop new tools and methods for data-driven decision making.
 *   Implement machine learning techniques for predictive modeling and problem-solving.
-
+*   Financial Acumen -Understanding financial principles is essential for budgeting, forecasting, and maximizing profitability.
+*   Customer Relationship Management (CRM) -Implementing CRM systems enhances customer interactions and improves satisfaction and loyalty.
+*   Technical Proficiency -Familiarity with various IT tools and software enhances efficiency and productivity across business operations.
 I am eager to connect with professionals in the field, learn from their experiences, and contribute to innovative projects.
 
 ## Sample Projects
