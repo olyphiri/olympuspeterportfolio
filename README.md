@@ -58,7 +58,7 @@ While I am early in my career, I have gained valuable experience through academi
 
 *   **Email:** peterolympusphiri@icloud.com
 *   **LinkedIn:** www.linkedin.com/in/peter-olympus-phiri-72536317b
-*   **Git:** [Your Git Profile]
+*   **Git:** olyphiri
 *   **Google:** [Your Google Profile]
 *   **CV:**          https://www.dropbox.com/scl/fi/ivj0otd5rt1jacwmo9t1k/PETER-PHIRI-RESUME-2025.pdf?rlkey=fisny5hfd7g0ohv96tr764knc&st=bbo98u4i&dl=0
 *   **WhatsApp:** [WhatsApp](https://wa.me/263784140899)
