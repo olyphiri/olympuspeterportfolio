@@ -76,10 +76,22 @@ I am particularly interested in exploring how technology can be used to:
 *   Technical Proficiency -Familiarity with various IT tools and software enhances efficiency and productivity across business operations.
 I am eager to connect with professionals in the field, learn from their experiences, and contribute to innovative projects.
 
-## Sample Projects
+## TAURA NENI @PETER OLYMPUS PHIRI
 
-<CODE_BLOCK>
-* Project 1 Description
-* Project 2 Description
-* Project 3 Description
+
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/peter-olympus-phiri-72536317b/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
+  </a>
+  <a href="https://github.com/olyphiri" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github" alt="GitHub">
+  </a>
+  <a href="https://wa.me/263784140899" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white" alt="WhatsApp">
+  </a>
+  <a href="mailto:peterolympusphiri@icloud.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email">
+  </a>
+</div>
 
