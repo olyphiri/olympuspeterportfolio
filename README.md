@@ -2,6 +2,16 @@
   <img src="https://rrmhxzaxghiovfqqggfv.supabase.co/storage/v1/object/public/avatars/e39fccff-ed81-45c5-b549-8322afdde7df/1743502992812.jpg" width="150" height="150" style="border-radius: 50%;">
 </div>
 
+<div style="position: relative; width: 100%; height: 0; padding-top: 100.0000%;
+ padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
+ border-radius: 8px; will-change: transform;">
+  <iframe loading="lazy" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0;margin: 0;"
+    src="https://www.canva.com/design/DAGlpktn4ic/Q4ZWXgv6D-0YdVTGWZOziQ/view?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
+  </iframe>
+</div>
+<a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAGlpktn4ic&#x2F;Q4ZWXgv6D-0YdVTGWZOziQ&#x2F;view?utm_content=DAGlpktn4ic&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">Blue Technology &amp; Gaming Logo</a> by Peter Phiri
+
+
 <h1 align="center">Boy From Nyanga Zimbabwe</h1>
 <p align="center">Date of Birth: 26 March 1999</p>
 
